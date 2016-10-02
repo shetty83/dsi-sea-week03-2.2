@@ -27,7 +27,6 @@ In this lab we'll learn about a new measure of model fit called the coefficient 
 
 Take a look at the [starter code](./code/starter-code/W3-Lab2.2-Starter.ipynb) as soon as you are ready.
 
-> [Solution Code](./code/solution-code/W3-Lab2.2-Solutions.ipynb)
 
 #### Deliverable
 
